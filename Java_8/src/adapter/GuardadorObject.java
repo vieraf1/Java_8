@@ -14,7 +14,7 @@ public class GuardadorObject {
 		posicao++;
 	}
 	
-	public int getQuantidadeEelementos() {
+	public int getQuantidadeElementos() {
 		return posicao;
 	}
 	

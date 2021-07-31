@@ -1,6 +1,5 @@
 package test;
 
-import adapter.GuardadorDeContas;
 import adapter.GuardadorObject;
 import domain.Conta;
 import domain.ContaCorrente;
@@ -17,7 +16,7 @@ public class TesteGuardadorObjects {
 		Conta cc2 = new ContaCorrente(22,22);
 		gc.adiciona(cc2);
 
-		int tamanho = gc.getQuantidadeEelementos();
+		int tamanho = gc.getQuantidadeElementos();
 		System.out.println(tamanho);
 		
 		Conta ref = (Conta) gc.getElemento(2);
