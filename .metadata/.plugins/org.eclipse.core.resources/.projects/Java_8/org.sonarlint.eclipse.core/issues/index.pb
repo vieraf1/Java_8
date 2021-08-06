@@ -13,3 +13,5 @@ R
 "src/adapter/GuardadorDeContas.java,3\d\3d4f4d8d773428186fdb7777b50786d3718ea0cd
 I
 src/test/TesteListas.java,d\4\d44958014b8dcf1fb69ccef46e6c27c01082b56a
+L
+src/test/TesteOrdenacao.java,d\3\d32badffb83bd02553a6bf0a475c739dd1f961b2

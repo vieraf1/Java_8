@@ -1,15 +1,15 @@
 
-i	java:S106N"9Replace this use of System.out or System.err by a logger.(…êÝ«þÿÿÿÿH‡RMAJORZ
-CODE_SMELL
-g	java:S125"<This block of commented-out lines of code should be removed.(’À¡”HˆRMAJORZ
-CODE_SMELL
 e
-java:S5993"9Change the visibility of this constructor to "protected".(¹ììÓHŠRMAJORZ
+java:S5993"9Change the visibility of this constructor to "protected".(¹ììÓH¢RMAJORZ
 CODE_SMELL
-i	java:S106B"9Replace this use of System.out or System.err by a logger.(…êÝ«þÿÿÿÿHŒRMAJORZ
+l	java:S125"<This block of commented-out lines of code should be removed.(ùâÉ‚ùÿÿÿÿH¤RMAJORZ
 CODE_SMELL
-l	java:S125"<This block of commented-out lines of code should be removed.(ùâÉ‚ùÿÿÿÿH†RMAJORZ
+i	java:S106B"9Replace this use of System.out or System.err by a logger.(…êÝ«þÿÿÿÿH¥RMAJORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(’À¡”H¦RMAJORZ
+CODE_SMELL
+i	java:S106N"9Replace this use of System.out or System.err by a logger.(…êÝ«þÿÿÿÿH¨RMAJORZ
 CODE_SMELL
 y
-java:S1126t"AReplace this if-then-else statement by a single return statement.(¾–™¶þÿÿÿÿ8‚¶Âö¯/H•RMINORZ
+java:S1126t"AReplace this if-then-else statement by a single return statement.(¾–™¶þÿÿÿÿ8‚¶Âö¯/H©RMINORZ
 CODE_SMELL
