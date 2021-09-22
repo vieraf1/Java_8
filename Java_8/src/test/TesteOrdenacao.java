@@ -29,7 +29,9 @@ public class TesteOrdenacao {
 		lista.add(cc3);
 		lista.add(cc4);
 		
-		lista.sort(new SaldoComparator());
+		//lista.sort(new SaldoComparator());
+		//Collections.sort(lista);
+		lista.sort(null);
 		
 		for(Conta c : lista) {
 			System.out.println(c.getSaldo());
@@ -43,7 +45,7 @@ class SaldoComparator implements Comparator<Conta>{
 
 	@Override
 	public int compare(Conta c1, Conta c2) {
-		return Double.valueOf(c1.getSaldo()).compareTo(Double.valueOf(c2.getSaldo()));
+		return Double.compare(c1.getSaldo(), c2.getSaldo());
 	}
 	
 }

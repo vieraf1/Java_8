@@ -8,7 +8,7 @@ import exceptions.SaldoInsuficienteException;
  * @author Nico Steppat
  *
  */
-public abstract class Conta extends Object {
+public abstract class Conta extends Object implements Comparable<Conta> {
 
     protected double saldo;
     private int agencia;
@@ -121,6 +121,11 @@ public abstract class Conta extends Object {
 	@Override
 	public String toString() {
 		return "Numero: " + this.numero + ", Agencia: " + this.agencia;
+	}
+
+	@Override
+	public int compareTo(Conta conta) {
+		return Double.compare(saldo, conta.saldo);
 	}
 
 }
