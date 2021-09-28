@@ -15,3 +15,7 @@ I
 src/test/TesteListas.java,d\4\d44958014b8dcf1fb69ccef46e6c27c01082b56a
 L
 src/test/TesteOrdenacao.java,d\3\d32badffb83bd02553a6bf0a475c739dd1f961b2
+P
+ src/test/TesteClasseAnonima.java,4\7\47c4fb85a8176ced4408f817fa0a438235bba2a9
+I
+src/test/TesteLambda.java,6\b\6b65a1468949728ab60ef39195be2af15b6c4227
