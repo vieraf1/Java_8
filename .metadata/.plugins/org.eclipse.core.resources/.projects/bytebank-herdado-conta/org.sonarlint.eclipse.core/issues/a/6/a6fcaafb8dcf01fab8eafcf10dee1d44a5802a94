@@ -1,30 +1,0 @@
-
-i
-java:S1128"?Remove this unused import 'br.com.bytebank.banco.modelo.Conta'.(Ç™ÓH-RMINORZ
-CODE_SMELL
-´
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õ‹ü‚üÿÿÿÿH.RCRITICALZ
-CODE_SMELL
-´
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—”àÚýÿÿÿÿH/RCRITICALZ
-CODE_SMELL
-¯
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨î½®H0RCRITICALZ
-CODE_SMELL
-´
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áÃ–³ÿÿÿÿÿH1RCRITICALZ
-CODE_SMELL
-f
-java:S1854";Remove this useless assignment to local variable "cliente".(Ö’«®H2RMAJORZ
-CODE_SMELL
-f	java:S125"<This block of commented-out lines of code should be removed.(ðáæ€H3RMAJORZ
-CODE_SMELL
-h	java:S106"9Replace this use of System.out or System.err by a logger.(‡Üø»üÿÿÿÿH6RMAJORZ
-CODE_SMELL
-h	java:S106"9Replace this use of System.out or System.err by a logger.(œõ÷…üÿÿÿÿH7RMAJORZ
-CODE_SMELL
-f	java:S125"<This block of commented-out lines of code should be removed.(Ä„þîH8RMAJORZ
-CODE_SMELL
-W
-java:S1481",Remove this unused "cliente" local variable.(Ö’«®H9RMINORZ
-CODE_SMELL
