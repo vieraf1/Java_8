@@ -1,15 +1,0 @@
-
-g	java:S125"<This block of commented-out lines of code should be removed.(’À¡”HµRMAJORZ
-CODE_SMELL
-l	java:S125"<This block of commented-out lines of code should be removed.(ùâÉ‚ùÿÿÿÿHºRMAJORZ
-CODE_SMELL
-i	java:S106N"9Replace this use of System.out or System.err by a logger.(…êİ«şÿÿÿÿH·RMAJORZ
-CODE_SMELL
-e
-java:S5993"9Change the visibility of this constructor to "protected".(¹ììÓH¸RMAJORZ
-CODE_SMELL
-i	java:S106B"9Replace this use of System.out or System.err by a logger.(…êİ«şÿÿÿÿH¼RMAJORZ
-CODE_SMELL
-y
-java:S1126t"AReplace this if-then-else statement by a single return statement.(¾–™¶şÿÿÿÿ8‚¶Âö¯/H»RMINORZ
-CODE_SMELL

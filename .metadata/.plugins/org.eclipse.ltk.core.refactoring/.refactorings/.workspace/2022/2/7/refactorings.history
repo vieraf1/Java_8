@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete 4 resources" deleteContents="false" description="Delete 4 resources" element1="/bytebank-biblioteca" element2="/bytebank-encapsulado" element3="/bytebank-herdado" element4="/bytebank-herdado-conta" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="4" stamp="1644368097202"/>&#x0A;<refactoring comment="Delete resource &apos;java-pilha&apos;" deleteContents="false" description="Delete resource &apos;java-pilha&apos;" element1="/java-pilha" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1644368119018"/>
-</session>
